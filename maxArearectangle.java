@@ -1,3 +1,4 @@
+
 // You are given a set of distinct points in a 2D Cartesian plane, each represented by integer coordinates ((x, y)). 
 // A rectangle is said to be valid if all four of its vertices are present in the given set of points and its sides are parallel to the x-axis and y-axis (i.e., the rectangle is axis-aligned). 
 // Your task is to determine four points that form such a rectangle with the maximum possible area among all valid rectangles that can be formed from the given set. 
@@ -6,7 +7,7 @@
 
 import java.util.*;
 
-class Solution {
+class maxArearectangle {
 
     public int maxAreaRect(int[][] points) {
 
